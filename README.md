@@ -1,8 +1,8 @@
-# blog-clob
+# blog-club
 A compilation of what the Gang of Fools has read/watched for blog clob, sorted descending and listed
 with the member who picked that item.
 
-## Blog clob picks
+## Blog club picks
 
 Sarah:
 
