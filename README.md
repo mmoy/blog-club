@@ -9,6 +9,7 @@ Melissa:
 [Finding The Shortest Path, With A Little Help From Dijkstra](https://medium.com/basecs/finding-the-shortest-path-with-a-little-help-from-dijkstra-613149fbdc8e)
 
 Seema:
+
 [Breaking up the Behemoth](https://www.sandimetz.com/blog/2017/9/13/breaking-up-the-behemoth)
 
 Sarah:
