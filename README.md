@@ -1,8 +1,15 @@
-# blog-clob
-A compilation of what the Gang of Fools has read/watched for blog clob, sorted descending and listed
+# blog-club
+A compilation of what the Gang of Fools has read/watched for blog club, sorted descending and listed
 with the member who picked that item.
 
-## Blog clob picks
+## Blog club picks
+
+Melissa:
+
+[Finding The Shortest Path, With A Little Help From Dijkstra](https://medium.com/basecs/finding-the-shortest-path-with-a-little-help-from-dijkstra-613149fbdc8e)
+
+Seema:
+[Breaking up the Behemoth](https://www.sandimetz.com/blog/2017/9/13/breaking-up-the-behemoth)
 
 Sarah:
 
