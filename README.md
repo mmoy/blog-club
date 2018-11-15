@@ -3,6 +3,23 @@ A compilation of what the Gang of Fools has read/watched for blog club, sorted d
 with the member who picked that item.
 
 ## Blog club picks
+Seema/Melissa:
+
+[Making impossible states impossible](https://www.youtube.com/watch?v=IcgmSRJHu_8) (talk)
+
+Seema:
+
+[Polly want a message](https://www.youtube.com/watch?v=XXi_FBrZQiU) (talk)
+
+Sarah:
+
+[SQL Injection](https://www.hacksplaining.com/exercises/sql-injection) (exercise)
+[Clickjacking](https://www.hacksplaining.com/exercises/click-jacking) (exercise)
+
+Jimmy:
+
+[So you are a Senior Engineer. Now what?](https://engineering.wework.com/so-you-are-a-senior-engineer-now-what-35ee2116f635)
+[Some possible career goals](https://jvns.ca/blog/2018/09/30/some-possible-career-goals/)
 
 Melissa:
 
