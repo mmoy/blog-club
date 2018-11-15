@@ -14,11 +14,13 @@ Seema:
 Sarah:
 
 [SQL Injection](https://www.hacksplaining.com/exercises/sql-injection) (exercise)
+
 [Clickjacking](https://www.hacksplaining.com/exercises/click-jacking) (exercise)
 
 Jimmy:
 
 [So you are a Senior Engineer. Now what?](https://engineering.wework.com/so-you-are-a-senior-engineer-now-what-35ee2116f635)
+
 [Some possible career goals](https://jvns.ca/blog/2018/09/30/some-possible-career-goals/)
 
 Melissa:
