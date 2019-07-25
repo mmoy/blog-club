@@ -129,6 +129,8 @@ Jimmy:
 
 ## Back when we were a book club and agreed on books together
 
+[Introduction to Networking](https://do1.dr-chuck.net/net-intro/EN_us/net-intro.pdf)
+
 [99 Bottles of Object-Oriented Programming](https://www.sandimetz.com/99bottles/)
 
 Clean Code (partially read, do not recommend)
