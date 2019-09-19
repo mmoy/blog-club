@@ -1,8 +1,8 @@
-# blog-club
-A compilation of what the Gang of Fools has read/watched for blog club, sorted descending and listed
+# blog-clob
+A compilation of what the Gang of Fools has read/watched for blog clob, sorted descending and listed
 with the member who picked that item.
 
-## Blog club picks
+## Blog clob picks
 Seema/Melissa:
 
 [Making impossible states impossible](https://www.youtube.com/watch?v=IcgmSRJHu_8) (talk)
